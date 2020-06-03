@@ -1,0 +1,11 @@
+C:\Users\Enrique Payamps\source\repos\ListaContacto\ListaContacto\bin\Debug\netcoreapp3.1\ListaContacto.exe
+C:\Users\Enrique Payamps\source\repos\ListaContacto\ListaContacto\bin\Debug\netcoreapp3.1\ListaContacto.deps.json
+C:\Users\Enrique Payamps\source\repos\ListaContacto\ListaContacto\bin\Debug\netcoreapp3.1\ListaContacto.runtimeconfig.json
+C:\Users\Enrique Payamps\source\repos\ListaContacto\ListaContacto\bin\Debug\netcoreapp3.1\ListaContacto.runtimeconfig.dev.json
+C:\Users\Enrique Payamps\source\repos\ListaContacto\ListaContacto\bin\Debug\netcoreapp3.1\ListaContacto.dll
+C:\Users\Enrique Payamps\source\repos\ListaContacto\ListaContacto\bin\Debug\netcoreapp3.1\ListaContacto.pdb
+C:\Users\Enrique Payamps\source\repos\ListaContacto\ListaContacto\obj\Debug\netcoreapp3.1\ListaContacto.csprojAssemblyReference.cache
+C:\Users\Enrique Payamps\source\repos\ListaContacto\ListaContacto\obj\Debug\netcoreapp3.1\ListaContacto.AssemblyInfoInputs.cache
+C:\Users\Enrique Payamps\source\repos\ListaContacto\ListaContacto\obj\Debug\netcoreapp3.1\ListaContacto.AssemblyInfo.cs
+C:\Users\Enrique Payamps\source\repos\ListaContacto\ListaContacto\obj\Debug\netcoreapp3.1\ListaContacto.dll
+C:\Users\Enrique Payamps\source\repos\ListaContacto\ListaContacto\obj\Debug\netcoreapp3.1\ListaContacto.pdb
